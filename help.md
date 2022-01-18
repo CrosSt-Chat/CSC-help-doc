@@ -1,4 +1,6 @@
-# 十字街简版帮助 by @emankciN （2022.1.7更新）
+# 十字街简版帮助  （2022.1.18更新）
+
+###### 零：感谢@emankciN @Arwen @Oreo_King @MuRongPIG @Henrize 和 @Igor (排名不分先后) 对本帮助的贡献！
 
 ## 一、功能
 
